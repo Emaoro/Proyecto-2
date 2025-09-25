@@ -1,0 +1,108 @@
+@startuml
+skinparam classAttributeIconSize 0
+
+' Clases base
+class Persona {
+  - nombreCompleto : String
+  - edad : int
+  + getNombreCompleto() : String
+  + getEdad() : int
+}
+
+class Atleta {
+  - id : int
+  - disciplina : Disciplina
+  - departamento : String
+  - nacionalidad : String
+  - fechaIngreso : LocalDate
+  - sesiones : List<SesionEntrenamiento>
+  + agregarSesion(s: SesionEntrenamiento) : void
+  + getSesiones() : List<SesionEntrenamiento>
+  + getId() : int
+}
+
+class SesionEntrenamiento {
+  - fecha : LocalDate
+  - tipo : String
+  - valorRendimiento : double
+  - ubicacion : String
+  - pais : String
+  + detalles() : String
+}
+
+class SesionFactory <<Factory>> {
+  + crearSesion(tipo:String, fecha:LocalDate, valor:double, ubicacion:String, pais:String) : SesionEntrenamiento
+}
+
+class Estadistica {
+  + calcularPromedio(sesiones: List<SesionEntrenamiento>) : double
+  + mejorRendimiento(sesiones: List<SesionEntrenamiento>) : double
+  + evolucion(sesiones: List<SesionEntrenamiento>) : List<Double>
+  + contarNacional(sesiones: List<SesionEntrenamiento>) : long
+  + contarInternacional(sesiones: List<SesionEntrenamiento>) : long
+}
+
+class Persistencia <<Facade>> {
+  + getConnection() : Connection
+  + guardarAtletaDB(a:Atleta) : void
+  + guardarSesionDB(atletaId:int, s:SesionEntrenamiento) : void
+  + listarAtletasDB() : List<Atleta>
+  + listarSesionesPorAtleta(atletaId:int) : List<SesionEntrenamiento>
+}
+
+class RegistroAtletas <<Singleton>> {
+  - atletas : List<Atleta>
+  - instancia : RegistroAtletas
+  + getInstancia() : RegistroAtletas
+  + registrarAtleta(a:Atleta) : void
+  + registrarAtletaSinPersistir(a:Atleta) : void
+  + getAtletas() : List<Atleta>
+  + buscarPorId(id:int) : Atleta
+}
+
+class Planilla {
+  + calcularPago(a:Atleta) : double
+}
+
+class CsvUtil <<Util>> {
+  + guardarAtletaCsv(a:Atleta) : void
+  + exportarSesiones(atletaId:int, sesiones:List<SesionEntrenamiento>) : void
+}
+
+class JsonUtil <<Util>> {
+  + guardarAtletaJson(a:Atleta) : void
+  + cargarAtletaDesdeArchivo(archivo:String) : Atleta
+}
+
+enum Disciplina {
+  Atletismo
+  Natacion
+  Pesas
+  Ciclismo
+  Boxeo
+  Judo
+  Futbol
+  Basquetbol
+  Tenis
+}
+
+class Main {
+  + main(args:String[]) : void
+}
+
+' Relaciones
+Persona <|-- Atleta
+Atleta "1" --> "*" SesionEntrenamiento
+Atleta --> Disciplina
+RegistroAtletas --> Persistencia : usa
+RegistroAtletas --> Atleta : contiene
+Atleta --> SesionFactory : crea
+Estadistica --> SesionEntrenamiento : analiza
+Main --> RegistroAtletas : ejecuta
+Main --> Estadistica : consulta
+Main --> Planilla : calcula pago
+Main --> CsvUtil : genera reportes
+Main --> JsonUtil : guarda/carga JSON
+Atleta --> Planilla : recibe pago
+
+@enduml

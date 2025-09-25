@@ -1,0 +1,696 @@
+{
+  "id": 1,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-22",
+  "sesiones": [
+    {
+      "fecha": "2025-09-22",
+      "tipo": "Resistencia",
+      "valorRendimiento": 8.5,
+      "ubicacion": "Piscina Olímpica",
+      "pais": "Guatemala"
+    }
+  ],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 1,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [
+    {
+      "fecha": "2025-09-23",
+      "tipo": "Resistencia",
+      "valorRendimiento": 8.5,
+      "ubicacion": "Piscina Olímpica",
+      "pais": "Guatemala"
+    }
+  ],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 1,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [
+    {
+      "fecha": "2025-09-23",
+      "tipo": "Resistencia",
+      "valorRendimiento": 8.5,
+      "ubicacion": "Piscina Olímpica",
+      "pais": "Guatemala"
+    }
+  ],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 2,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 1,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [
+    {
+      "fecha": "2025-09-23",
+      "tipo": "Resistencia",
+      "valorRendimiento": 8.5,
+      "ubicacion": "Piscina Olímpica",
+      "pais": "Guatemala"
+    }
+  ],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 2,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 3,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 4,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 1,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [
+    {
+      "fecha": "2025-09-23",
+      "tipo": "Resistencia",
+      "valorRendimiento": 8.5,
+      "ubicacion": "Piscina Olímpica",
+      "pais": "Guatemala"
+    }
+  ],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 2,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 3,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 4,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 5,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 6,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 7,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 8,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 1,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [
+    {
+      "fecha": "2025-09-23",
+      "tipo": "Resistencia",
+      "valorRendimiento": 8.5,
+      "ubicacion": "Piscina Olímpica",
+      "pais": "Guatemala"
+    }
+  ],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 2,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 3,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 4,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 5,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 6,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 7,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 8,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 9,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 10,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 11,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 12,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 13,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 14,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 15,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 16,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 1,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [
+    {
+      "fecha": "2025-09-23",
+      "tipo": "Resistencia",
+      "valorRendimiento": 8.5,
+      "ubicacion": "Piscina Olímpica",
+      "pais": "Guatemala"
+    }
+  ],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 2,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 3,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 4,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 5,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 6,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 7,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 8,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 9,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 10,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 11,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 12,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 13,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 14,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 15,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 16,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 17,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 18,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 19,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 20,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 21,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 22,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 23,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 24,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 25,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 26,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 27,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 28,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 29,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 30,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 31,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
+{
+  "id": 32,
+  "disciplina": "Natacion",
+  "departamento": "Guatemala",
+  "nacionalidad": "Guatemalteco",
+  "fechaIngreso": "2025-09-23",
+  "sesiones": [],
+  "nombreCompleto": "Juan Pérez",
+  "edad": 23
+}
